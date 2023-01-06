@@ -1,0 +1,19 @@
+id: ACB16C9C6
+title: A Short Prayer to the Abbot, the Master and the King
+type: translation
+pechas:
+- I9A5A9943
+- IE997DED2
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:47:52.181824
+  last_modified_at: 2023-01-04 11:47:52.181828
+  collections:
+  - Dudjom Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I9A5A9943/E74A: 8C2B
+  IE997DED2/C868: 8C2B
